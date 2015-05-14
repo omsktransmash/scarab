@@ -1,2 +1,2 @@
 # scarab
-Like a scarab..
+Like a dung beetle..
